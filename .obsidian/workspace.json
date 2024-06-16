@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "31b851e737a72593",
+    "type": "split",
+    "children": [
+      {
+        "id": "613ca6bfcd8fc943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cedc43cf3bffa4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vitest/01 Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d746b9ba1e5324d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3faecb3e2b5cdc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824b35932f7b41bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb870cbe2887297f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b87b9a2617a6e561",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cc73c2576b5f7343",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b2c757717ef4cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61ff19b6ed42aaab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vitest/01 Getting Started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4834e8a1f1173153",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vitest/01 Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f280004df716a304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8206deff8b24b854",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vitest/01 Getting Started.md"
+              }
+            }
+          },
+          {
+            "id": "93779a2d09a5abff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "cedc43cf3bffa4ab",
+  "lastOpenFiles": [
+    "JavaScript/for in.md",
+    "Vitest/01 Getting Started.md",
+    "English/Words.md",
+    "English",
+    "Vitest/00 Why Vitest.md",
+    "Others/HMR.md",
+    "Others",
+    "JavaScript/Promise.md",
+    "Vite/glob imports.md",
+    "Vite/Dynamic import (vite).md",
+    "JavaScript/Dynamic import.md",
+    "glob imports.md",
+    "JavaScript",
+    "Vite",
+    "Vitest/03 Workspace.md",
+    "Vitest/02 Features.md",
+    "Vitest",
+    "Welcome.md"
+  ]
+}
