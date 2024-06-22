@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "613ca6bfcd8fc943",
+        "id": "3d312f21daf8fe79",
         "type": "tabs",
         "children": [
           {
-            "id": "cedc43cf3bffa4ab",
+            "id": "042124b899825dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vitest/01 Getting Started.md",
+                "file": "Next.js/Next with App Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "cc73c2576b5f7343",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vitest/01 Getting Started.md",
+                "file": "Next.js/Next with App Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vitest/01 Getting Started.md",
+                "file": "Next.js/Next with App Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vitest/01 Getting Started.md"
+                "file": "Next.js/Next with App Router.md"
               }
             }
           },
@@ -136,8 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "a200e76411242fbd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -152,30 +161,50 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "cedc43cf3bffa4ab",
+  "active": "042124b899825dcf",
   "lastOpenFiles": [
-    "JavaScript/for in.md",
-    "Vitest/01 Getting Started.md",
+    "Zustand/10 How to reset state.md",
+    "Next.js/Next with App Router.md",
+    "Next.js",
+    "Zustand/09 Connect to state with URL.md",
+    "Zustand/08 Map and Set Usage.md",
+    "Zustand/07 Testing.md",
+    "Zustand/06 TypeScript Guide.md",
+    "Others/Middleware.md",
+    "TypeScript",
+    "To do.md",
+    "Zustand/04 Auto Generating Selectors.md",
+    "유튜브/프론트엔드 상태관리 실전 편 with React Query & Zustand.md",
+    "Zustand/05 Practice with no store actions.md",
+    "Zustand/03 Flux inspired practice.md",
+    "Zustand/02 Immutable state and merging.md",
+    "Zustand/01 Updating State.md",
+    "Zustand/00 Introduction.md",
     "English/Words.md",
-    "English",
+    "JavaScript/Shallow Copy vs Deep Copy.md",
+    "코딩테스트/문제.md",
+    "Zustand",
+    "코딩테스트/그리디/문자열뒤집기.js",
+    "코딩테스트/그리디/곱하기혹은더하기.js",
+    "Vitest/01 Getting Started.md",
     "Vitest/00 Why Vitest.md",
-    "Others/HMR.md",
-    "Others",
+    "JavaScript/for in.md",
     "JavaScript/Promise.md",
-    "Vite/glob imports.md",
-    "Vite/Dynamic import (vite).md",
-    "JavaScript/Dynamic import.md",
-    "glob imports.md",
-    "JavaScript",
-    "Vite",
-    "Vitest/03 Workspace.md",
+    "코딩테스트/그리디/모험가길드.js",
+    "코딩테스트/그리디",
+    "Vitest/_sum_test_/sum.js",
+    "Others/모노레포 (미완).md",
+    "코딩테스트",
+    "백준",
     "Vitest/02 Features.md",
-    "Vitest",
-    "Welcome.md"
+    "Others/HMR.md",
+    "무제 파일.canvas",
+    "Git/Atomic Commit.md",
+    "assets/스트린샷1.png"
   ]
 }
